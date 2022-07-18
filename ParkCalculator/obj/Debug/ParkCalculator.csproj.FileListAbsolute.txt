@@ -1,0 +1,9 @@
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\bin\Debug\ParkCalculator.exe.config
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\bin\Debug\ParkCalculator.exe
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\bin\Debug\ParkCalculator.pdb
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.csprojResolveAssemblyReference.cache
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.Form1.resources
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.Properties.Resources.resources
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.csproj.GenerateResource.Cache
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.exe
+c:\users\gerome\documents\visual studio 2013\Projects\ParkCalculator\ParkCalculator\obj\Debug\ParkCalculator.pdb
